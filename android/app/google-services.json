@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35732922354",
+    "project_id": "datatest-ec974",
+    "storage_bucket": "datatest-ec974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35732922354:android:83d4b5ba37ea560cd8956b",
+        "android_client_info": {
+          "package_name": "com.example.datatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35732922354-3snoaboihvgoaja9olmeqt1pbirg82lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOnmGd0DkObPgw3JjoV8wPLU0IdQAw5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35732922354-3snoaboihvgoaja9olmeqt1pbirg82lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
